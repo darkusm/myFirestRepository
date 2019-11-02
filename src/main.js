@@ -7,7 +7,7 @@ import { Header } from 'mint-ui';
 
 Vue.component(Header.name, Header);
 
-//导入mui样式
+//导入mui样式   
 import './lib/mui/css/mui.min.css'
 
 
